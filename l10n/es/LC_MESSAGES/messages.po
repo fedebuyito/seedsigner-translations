@@ -832,7 +832,7 @@ msgstr "Analizando PSBT..."
 
 #: src/seedsigner/views/psbt_views.py
 msgid "Unsupported Script Type!"
-msgstr "¡Tipo de Script no soportado!"
+msgstr "¡Tipo de Script No Soportado!"
 
 #: src/seedsigner/views/psbt_views.py
 msgid ""
@@ -911,7 +911,7 @@ msgstr ""
 
 #: src/seedsigner/views/psbt_views.py
 msgid "Suspicious PSBT"
-msgstr "PSBT sospechoso"
+msgstr "PSBT Sospechoso"
 
 #. Variable is either "change" or "self-transfer".
 #: src/seedsigner/views/psbt_views.py
@@ -956,15 +956,15 @@ msgstr "código QR no reconocido o aún no soportado"
 
 #: src/seedsigner/views/scan_views.py
 msgid "Wrong QR Type"
-msgstr "Tipo de QR equivocado"
+msgstr "Tipo de QR Equivocado"
 
 #: src/seedsigner/views/scan_views.py src/seedsigner/views/view.py
 msgid "Error"
-msgstr "error"
+msgstr "Error"
 
 #: src/seedsigner/views/scan_views.py
 msgid "Unknown QR Type"
-msgstr "tipo QR desconocido"
+msgstr "Tipo QR Desconocido"
 
 #: src/seedsigner/views/scan_views.py
 msgid "QRCode is invalid or is a data format not yet supported."
@@ -1064,7 +1064,7 @@ msgstr "Descartar"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Invalid Mnemonic!"
-msgstr "¡Frase Mnemónica inválida!"
+msgstr "¡Frase Mnemónica Inválida!"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Checksum failure; not a valid seed phrase."
